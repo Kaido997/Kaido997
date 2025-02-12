@@ -4,6 +4,11 @@
 ## Currently working on 🏗️:
 [Food Weight](https://foodweight.online)
 
+## Currently learning:
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) Proficency: 🟢 🟢 ⚫️ ⚫️ ⚫️
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Proficency: 🟢 🟢 ⚫️ ⚫️ ⚫️
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanpirro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alan.pirro) 
 
